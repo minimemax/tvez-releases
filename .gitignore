@@ -1,0 +1,10 @@
+*.apk
+*.zip
+*.pk8
+*.pem
+*.keystore
+*.jks
+*.p12
+*.pfx
+*.log
+*.jsonl
