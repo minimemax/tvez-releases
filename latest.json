@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 1,
+  "packageName": "il.tvez.tv",
+  "versionCode": 42,
+  "versionName": "0.4.28-tv",
+  "minSdk": 23,
+  "apkUrl": "https://github.com/minimemax/tvez-releases/releases/download/v0.4.28-tv/TVEZ-v0.4.28-tv.apk",
+  "sha256": "7daf861ac106e33eb970ab429a85b3225b6373edf68a46bfbb8e5e503072b2de",
+  "sizeBytes": 15089953,
+  "releaseNotes": "נוסף בטלוויזיות Android TV טופס מובנה לדיווח תקלה או הצעה מתוך TVEZ.\nנוספה שליחת דוח אבחון של TVEZ לבדיקה, לאחר הצגת תצוגה מקדימה ואישור מפורש, עם חיווי כשהשליחה מתקבלת.\nנוסף הסבר קצר להגדרת הזפזופ המהיר; ההגדרה נשארת כבויה כברירת מחדל."
+}
