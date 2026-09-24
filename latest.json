@@ -5,7 +5,7 @@
   "versionName": "TVEZ 0.4.31-tv (Carmel)",
   "minSdk": 23,
   "apkUrl": "https://github.com/minimemax/tvez-releases/releases/download/v0.4.31-tv/TVEZ-v0.4.31-tv.apk",
-  "sha256": "3866888385632ddafcb13d6585a344f1800b4fb05a0b8b4a15bfd1a3b08a7736",
+  "sha256": "f7537e4d8f80a92e932a1ff270620500ca5de4d890a852c15f4811d56be9bcfa",
   "sizeBytes": 15089953,
   "releaseNotes": "שם העדכון: Carmel (כרמל).\n- תוקן תהליך הדיווח ושליחת דוחות האבחון ממכשירי Android עם מסך מגע.\n- הדיווח נשלח מתוך TVEZ למאגר הדיווחים, לאחר תצוגה מקדימה ואישור מפורש של המשתמש."
 }
