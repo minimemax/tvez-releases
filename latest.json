@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
   "packageName": "il.tvez.tv",
-  "versionCode": 44,
-  "versionName": "TVEZ 0.4.31-tv (Carmel)",
+  "versionCode": 45,
+  "versionName": "TVEZ 0.4.32-tv (Carmel)",
   "minSdk": 23,
-  "apkUrl": "https://github.com/minimemax/tvez-releases/releases/download/v0.4.31-tv/TVEZ-v0.4.31-tv.apk",
-  "sha256": "551174bf4a15e34de32dffffcd4fc3db3db9bb89450f0d8c36967dc73273ba56",
+  "apkUrl": "https://github.com/minimemax/tvez-releases/releases/download/v0.4.32-tv/TVEZ-v0.4.32-tv.apk",
+  "sha256": "a6031f408eef46c61a2d90c5fb77447f99d781b9199b9099716a9896be923069",
   "sizeBytes": 15089953,
-  "releaseNotes": "שם העדכון: Carmel (כרמל).\n- תוקן תהליך הדיווח ושליחת דוחות האבחון ממכשירי Android עם מסך מגע.\n- הדיווח נשלח מתוך TVEZ למאגר הדיווחים, לאחר תצוגה מקדימה ואישור מפורש של המשתמש."
+  "releaseNotes": "שם העדכון: Carmel (כרמל).\n- תוקן הטיפול בתוצאת שליחת דיווח או לוגים כאשר עוברים לרקע וחוזרים לאפליקציה.\n- הודעות שגיאה בעדכון מציגות כעת סיבה ברורה וקוד בדיקה, במקום לייחס כל כשל לחיבור לרשת.\n- לאחר כשל זמני בבדיקת עדכונים, ניתן לבצע בדיקה אוטומטית נוספת בכניסה לאפליקציה לאחר 15 דקות, בלי להמתין יום שלם. הורדה והתקנה עדיין דורשות אישור.\n- נוסף טיפול במגבלת הזמן של שירות ההקלטה ב־Android 15 ומעלה, עם שמירת החלק שכבר הוקלט כאשר קיימים מקטעים תקינים.\n- הודעת שליחת דיווח ללא אישור קליטה מבהירה שייתכן שהדיווח כבר התקבל, כדי לצמצם שליחה כפולה."
 }
