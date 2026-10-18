@@ -9,7 +9,6 @@ This repository hosts signed TVEZ APK releases and the metadata used by the in-a
 Version code: 49
 
 - [Download the installation APK](https://github.com/minimemax/tvez-releases/releases/download/v1.0.0-tv/TVEZ-v1.0.0-tv-Hermon.apk)
-- [Download the channel and radio shortcuts](https://github.com/minimemax/tvez-releases/releases/download/v1.0.0-tv/TVEZ-Hermon-Channel-Shortcuts.zip)
 - [What's new](https://github.com/minimemax/tvez-releases/releases/tag/v1.0.0-tv)
 - [Installation guide in Hebrew](https://github.com/minimemax/tvez-releases/blob/main/docs/TVEZ-vX.X.XX-tv-installation-guide-he.md)
 
