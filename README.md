@@ -4,19 +4,18 @@ This repository hosts signed TVEZ APK releases and the metadata used by the in-a
 
 ## Latest release
 
-**TVEZ 1.0.0-tv (Hermon)**
+**TVEZ 1.5.0-tv (Hermon)**
 
-Version code: 49
+Version code: 50
 
-- [Download the installation APK](https://github.com/minimemax/tvez-releases/releases/download/v1.0.0-tv/TVEZ-v1.0.0-tv-Hermon.apk)
-- [What's new](https://github.com/minimemax/tvez-releases/releases/tag/v1.0.0-tv)
+- [Download the installation APK](https://github.com/minimemax/tvez-releases/releases/download/v1.5.0-tv/TVEZ-v1.5.0-tv-Hermon.apk)
+- [What's new](https://github.com/minimemax/tvez-releases/releases/tag/v1.5.0-tv)
 - [Installation guide in Hebrew](https://github.com/minimemax/tvez-releases/blob/main/docs/TVEZ-vX.X.XX-tv-installation-guide-he.md)
 
-SHA-256: FA746A1331AFA8AEC75769659FF2EB3A8171E6E935421DF3786641FB8AF47008
+SHA-256: 2322730A196B479956A21551F0926A824A43626C3EF91B2B40F4BFB06BD49072
 
 Compare the APK's SHA-256 with the checksum above before installing. Android requires your approval to install an APK from outside its app store, and TVEZ does not silently install updates.
 
 Versions installed before the in-app updater was introduced need one manual update. After that, the app can notify you about a new release and offer a download that you approve. If an older Android installation cannot download an update, install the latest APK manually.
 
 For a bug report or suggestion, use the form inside TVEZ and review the diagnostic information before confirming. An optional verified email address enables replies and closure notifications. You can also open a public [Issue](https://github.com/minimemax/tvez-releases/issues). Do not post private stream URLs, access tokens, personal information, or unredacted device logs.
-
